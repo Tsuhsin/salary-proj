@@ -1,0 +1,42 @@
+
+<svg width="1440px" height="571px" viewBox="0 0 1440 571" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#CC70F2" offset="0%"></stop>
+            <stop stop-color="#9D3DE0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Headers" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="07-Header-[Web]" transform="translate(0.000000, -329.000000)">
+            <g id="Illustration" transform="translate(0.000000, 329.000000)">
+                <path d="M0,183 C102.25187,80.4322917 216.231037,29.1484375 341.9375,29.1484375 C530.497195,29.1484375 573.359375,92.1328125 732.578125,183 C891.796875,273.867188 982.3125,338.84375 1142.52344,338.84375 C1249.33073,338.84375 1348.48958,286.895833 1440,183 L1440,571 L0,571 L0,183 Z" id="Rectangle" fill="url(#linearGradient-1)"></path>
+                <g id="Point" transform="translate(302.000000, 0.000000)" fill="#FFFFFF">
+                    <circle id="Circle" opacity="0.200000003" cx="30" cy="30" r="30"></circle>
+                    <circle id="Circle" opacity="0.200000003" cx="30" cy="30" r="20"></circle>
+                    <circle id="Circle" cx="30" cy="30" r="10"></circle>
+                    <rect id="Line" opacity="0.200000003" x="29" y="30" width="1" height="541" rx="0.5"></rect>
+                </g>
+                <g id="Point" transform="translate(1190.000000, 304.000000)" fill="#FFFFFF">
+                    <circle id="Circle" opacity="0.200000003" cx="30" cy="30" r="30"></circle>
+                    <circle id="Circle" opacity="0.200000003" cx="30" cy="30" r="20"></circle>
+                    <circle id="Circle" cx="30" cy="30" r="10"></circle>
+                    <rect id="Line" opacity="0.300000012" x="30" y="33" width="1" height="234" rx="0.5"></rect>
+                </g>
+                <g id="Point" transform="translate(990.000000, 280.000000)" fill="#1AEEC2">
+                    <circle id="Circle" opacity="0.200000003" cx="50" cy="50" r="50"></circle>
+                    <circle id="Circle" opacity="0.200000003" cx="50" cy="50" r="30"></circle>
+                    <circle id="Circle" cx="50" cy="50" r="15"></circle>
+                    <rect id="Line" x="50" y="53" width="1" height="254" rx="0.5"></rect>
+                </g>
+                <g id="Point" transform="translate(64.000000, 79.000000)" fill="#FFFFFF">
+                    <circle id="Circle" opacity="0.200000003" cx="30" cy="30" r="30"></circle>
+                    <circle id="Circle" opacity="0.200000003" cx="30" cy="30" r="20"></circle>
+                    <circle id="Circle" cx="30" cy="30" r="10"></circle>
+                    <rect id="Line" opacity="0.200000003" x="30" y="40" width="1" height="452" rx="0.5"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
