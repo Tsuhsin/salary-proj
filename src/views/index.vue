@@ -16,28 +16,28 @@
         <div class="col-lg-3 col-md-6 col-sm-6">
           <div class="img_wrap" id="food">
             <router-link to="./recomend" id="link">
-              <h4>內容</h4>
+              <h4>醫療保健</h4>
             </router-link>
           </div>
         </div>
         <div class="col-lg-3 col-md-6 col-sm-6">
           <div class="img_wrap" id="hotel">
             <router-link to="./recomend" id="link">
-              <h4>內容</h4>
+              <h4>金融保險</h4>
             </router-link>
           </div>
         </div>
         <div class="col-lg-3 col-md-6 col-sm-6">
           <div class="img_wrap" id="spot">
             <router-link to="./recomend" id="link">
-              <h4>內容</h4>
+              <h4>技術業</h4>
             </router-link>
           </div>
         </div>
         <div class="col-lg-3 col-md-6 col-sm-6">
           <div class="img_wrap" id="store">
             <router-link to="./construction" id="link">
-              <h4>內容</h4>
+              <h4>餐飲業</h4>
             </router-link>
           </div>
         </div>

@@ -7,7 +7,7 @@
       <ul id="navbarNav">
         <li class="nav-item px-2" @click="toggle()"><router-link to="./construction" class="nav-link" href="#section_recommand">薪資排行
             <div id="line"></div></router-link></li>
-        <li class="nav-item px-2" @click="toggle()"><router-link to="./construction" class="nav-link" href="#section_test">查詢系統
+        <li class="nav-item px-2" @click="toggle()"><router-link to="./inquiry" class="nav-link" href="#section_test">查詢系統
             <div id="line"></div></router-link></li>
         <li class="nav-item px-2" @click="toggle()"><router-link to="./construction" class="nav-link" href="#section_article">薪水試算
             <div id="line"> </div></router-link></li>

@@ -14,6 +14,8 @@ library.add(faUserSecret,faChartLine,faBars)
 Vue.component('font-awesome-icon', FontAwesomeIcon)
 
 Vue.config.productionTip = false
+Vue.config.debug = true;
+Vue.config.devtools = true;
 
 new Vue({
   router,
