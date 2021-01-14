@@ -1,0 +1,91 @@
+* {
+  transition-duration: .3s;
+}
+.rankContainer {
+  width: 80%;
+  margin: 100px auto;
+  padding: 10px;
+  background-color: #fff3e2;
+  border-radius: 8px;
+}
+.title_rank {
+  margin-left: 10px;
+  color: #632b2b;
+  letter-spacing: 1px;
+}
+.p_rank {
+  margin-left: 10px;
+  color: #632b2b;
+  opacity: .8;
+}
+.box_rank {
+  height: 500px;
+  max-width: 800px;
+  padding: 50px;
+}
+.pic_rank {
+  margin: 50px 0px;
+  background-image: url(https://www.flaticon.com/svg/vstatic/svg/1162/1162489.svg?token=exp=1610608273~hmac=42acd13c789d5a31d3c92a5fd0397aed);
+  background-repeat: no-repeat;
+  height: 200px;
+  background-size: contain;
+  background-position: center center;
+}
+.form_rank {
+  display: flex;
+  align-content: center;
+}
+.text_rank {
+  width: 150px;
+  margin: 5px;
+  padding: 0px 10px;
+  border: 2px solid #a84388;
+  border-radius: 35px;
+  background-color: transparent;
+}
+.span_rank {
+  margin: auto 0px;
+  padding: 0px;
+  color: #a84388;
+}
+.btn_rank {
+  margin: 5px;
+  margin-left: 50px;
+  padding: 0px 10px;
+  border: 2px solid #a84388;
+  border-radius: 35px;
+  color: #a84388;
+  background-color: transparent;
+  &:hover {
+    background-color: #a84388;
+    color: #fff;
+  }
+}
+@media screen and (max-width: 576px) {
+  .box_rank {
+    padding: 30px 20px;
+  }
+  .text_rank {
+    width: 150px;
+  }
+}
+@media screen and (max-width: 660px) {
+  .pic_rank {
+    height: 150px;
+  }
+  .form_rank {
+    display: inherit;
+  }
+  .text_rank {
+    width: 120px;
+  }
+  .span_rank {
+    display: inline;
+  }
+  .btn_rank {
+    display: block;
+    margin: 10px auto;
+    margin-top: 30px;
+    width: 100px;
+  }
+}

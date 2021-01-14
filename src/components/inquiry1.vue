@@ -4,7 +4,7 @@
         <h5 class="title_inquiry">以年份及行業查詢</h5>
         <div class="pic_inq"></div>
         <form action="http://192.168.64.2/query1.php" method="get">
-            <p class="p_inq">年份：</p><input type="text" name="year" class="text_inq">
+            <p class="p_inq">年份：<span>(請輸入1980~2018之間的年份)</span></p><input type="text" name="year" class="text_inq">
             <p class="p_inq">行業別：</p><select name="industry" class="text_inq select_inq">
                 <option value="工業及服務業">工業及服務業</option>
                 <option value="工業">工業</option>
