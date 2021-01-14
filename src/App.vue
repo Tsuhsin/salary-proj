@@ -5,7 +5,7 @@
       <div class="index" @click="toggle()"><router-link to="/" class="navbar-brand" href="#top"><font-awesome-icon icon="chart-line" /><span>薪之藍圖</span></router-link></div>
       <label for="menu_control" class="menu_btn"><font-awesome-icon icon="bars" /><i class="fas fa-bars"></i></label>
       <ul id="navbarNav">
-        <li class="nav-item px-2" @click="toggle()"><router-link to="./construction" class="nav-link" href="#section_recommand">薪資排行
+        <li class="nav-item px-2" @click="toggle()"><router-link to="./rank" class="nav-link" href="#section_recommand">薪資排行
             <div id="line"></div></router-link></li>
         <li class="nav-item px-2" @click="toggle()"><router-link to="./inquiry" class="nav-link" href="#section_test">查詢系統
             <div id="line"></div></router-link></li>

@@ -1,18 +1,23 @@
 <template>
 <div>
   <div class="inquiryContainer">
-    <h1>查詢</h1>
-
+    <p class="p_inquiry"></p>
+    <inquiry1></inquiry1>
+    <hr>
+    <inquiry2></inquiry2>
   </div>
 </div>
 </template>
 
 <script>
 import axios from 'axios';
+import inquiry1 from '../components/inquiry1';
+import inquiry2 from '../components/inquiry2';
 export default {
   name: 'inquiry',
   components: {
-
+    inquiry1,
+    inquiry2
   },
   data (){
     return{
@@ -43,5 +48,6 @@ export default {
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style lang="scss">
-@import '../assets/scss/construction.scss';
+@import '../assets/scss/inquiry.scss';
+
 </style>

@@ -15,28 +15,28 @@
         </div>
         <div class="col-lg-3 col-md-6 col-sm-6">
           <div class="img_wrap" id="food">
-            <router-link to="./recomend" id="link">
+            <router-link to="./rank" id="link">
               <h4>醫療保健</h4>
             </router-link>
           </div>
         </div>
         <div class="col-lg-3 col-md-6 col-sm-6">
           <div class="img_wrap" id="hotel">
-            <router-link to="./recomend" id="link">
+            <router-link to="./rank" id="link">
               <h4>金融保險</h4>
             </router-link>
           </div>
         </div>
         <div class="col-lg-3 col-md-6 col-sm-6">
           <div class="img_wrap" id="spot">
-            <router-link to="./recomend" id="link">
+            <router-link to="./rank" id="link">
               <h4>技術業</h4>
             </router-link>
           </div>
         </div>
         <div class="col-lg-3 col-md-6 col-sm-6">
           <div class="img_wrap" id="store">
-            <router-link to="./construction" id="link">
+            <router-link to="./rank" id="link">
               <h4>餐飲業</h4>
             </router-link>
           </div>
@@ -45,14 +45,14 @@
     </div>
   </section>
   <section id="section_route">
-    <router-link to="./construction" id="link">
+    <router-link to="./inquiry" id="link">
       <div class="container">
         <div class="row align-items-center">
           <div class="col-sm-5 img"></div>
           <div class="col-sm-7">
             <h2>查詢各行業資料</h2>
-            <h5>內容內容內容內容內容內容</h5>
-            <h5>內容內容內容內容</h5>
+            <h5>以年份及行業查詢</h5>
+            <h5>自選4個行業做比較</h5>
           </div>
         </div>
       </div>
@@ -77,7 +77,7 @@
                 <h5>地區</h5>
               </div>
             </div>
-            <router-link to="./survey"><button class="btn btn-default">馬上測一測</button></router-link>
+            <router-link to="./construction"><button class="btn btn-default">馬上測一測</button></router-link>
           </div>
         </div>
       </div>
